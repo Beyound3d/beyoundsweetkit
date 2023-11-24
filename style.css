@@ -150,4 +150,47 @@ footer {
   .footer-copyright {
     margin-top: 10px;
   }
-  
+  @media screen and (width<=1265px)  {
+    
+     .footer-content {
+       display: flex;
+       flex-direction: column;
+       align-items: left;
+       text-align: left;
+     }
+   
+     .footer-logo {
+       margin-bottom: 20px;
+     }
+   
+     .footer-menus {
+       display: flex;
+       flex-direction: column;
+       gap: 20px;
+     }
+   
+     .footer-menu {
+       text-align: center;
+     }
+   
+     .footer-social {
+       margin-top: 20px;
+       display: flex;
+       justify-content: center;
+       gap: 10px;
+       margin-bottom: 20px;
+     }
+   
+     .footer-links {
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: center;
+       gap: 10px;
+     }
+   
+     .footer-subcontent {
+       text-align: center;
+     }
+     
+     
+   }
