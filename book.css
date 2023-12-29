@@ -2,9 +2,16 @@ body {
     font-family: sans-serif;
     background-color: #A66BFF;
   }
-  
+  .logo{
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    display:flex;
+    width:50%;
+    height:auto;
+  }
   .container {
-    width: 80%;
+    width: 50%;
     margin: 0 auto;
     padding: 30px;
     background-color: #fff;
@@ -49,15 +56,15 @@ body {
   }
   
   .btn-warning {
-    background-color: #fAFC00 !important;
-    border-color: #FAFC00!important;
+    background-color: #ffc107 !important;
+    border-color: #ffc107!important;
     color: #000000 !important;
     padding: 10px 20px;
     border-radius: 4px;
     cursor: pointer;
   }
   a button {
-    background-color: #FAFC00;
+    background-color: #ffc107;
     color: rgb(35, 11, 11);
     padding: 10px 20px;
     border: none;
