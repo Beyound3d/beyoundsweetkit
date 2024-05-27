@@ -2,14 +2,28 @@ body {
     font-family: sans-serif;
     background-color: #A66BFF;
   }
-  .logo{
+  /*.logo{
     justify-content:center;
     align-items:center;
     text-align:center;
     display:flex;
     width:50%;
     height:auto;
-  }
+  }*/
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px; /* Adjust width as needed */
+  height: 200px; /* Adjust height as needed */
+  border: 1px solid #ccc; /* Optional: Add border for visualization */
+}
+
+.logo img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
   .container {
     width: 50%;
     margin: 0 auto;
