@@ -14,8 +14,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 300px; /* Adjust width as needed */
-  height: 200px; /* Adjust height as needed */
+  width: 800px; /* Adjust width as needed */
+  height: 800px; /* Adjust height as needed */
   border: 1px solid #ccc; /* Optional: Add border for visualization */
 }
 
