@@ -10,19 +10,7 @@ body {
     width:50%;
     height:auto;
   }
-/*.logo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 800px; /* Adjust width as needed */
-  height: 800px; /* Adjust height as needed */
-  border: 1px solid #ccc; /* Optional: Add border for visualization */
-}*/
 
-/*.logo img {
-  max-width: 100%;
-  max-height: 100%;
-}*/
 
   .container {
     width: 50%;
